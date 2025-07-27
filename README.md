@@ -1,5 +1,5 @@
 ## Demonmegi
-I'm passionate about vintage software and hardware, and my educational background is in IT and management accounting.
+I'm passionate about vintage software and hardware, and my educational background is in IT and operational accounting.
 <hr />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demonmegi)](https://github.com/anuraghazra/github-readme-stats)
 <hr />
